@@ -23,3 +23,4 @@ setInterval(() => {
     minutesDot.style.transform = `rotate( calc( ${mm + (ss / 60)} * 6deg ) )`;
     secondsDot.style.transform = `rotate( calc( ${ss} * 6deg ) )`;
 }, 1000);
+//real madrid
